@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "clap_family: Conservative Lapse-Action Planning"
+message: "If you use this software, please cite the accompanying paper."
+authors:
+  - family-names: Patil
+    given-names: Rishabh
+version: 0.1.0
+date-released: 2026-05-29
+license: MIT
+preferred-citation:
+  type: article
+  title: "Conservative Lapse-Action Planning: A Variational Access-and-Dwell Framework for Safe Latent Trajectory Optimization"
+  authors:
+    - family-names: Patil
+      given-names: Rishabh
+  year: 2026

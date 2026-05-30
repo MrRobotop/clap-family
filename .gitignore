@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+*.png
+!docs/images/*.png
+results.json
+.DS_Store
+
+# internal development artifacts — not for the public repo
+docs/superpowers/
