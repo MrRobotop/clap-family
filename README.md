@@ -235,11 +235,14 @@ New variants, environments, backends, and training adapters are welcome — the 
 ## Citation
 
 ```bibtex
-@article{patil2026clap,
-  title   = {Conservative Lapse-Action Planning: A Variational Access-and-Dwell
-             Framework for Safe Latent Trajectory Optimization},
-  author  = {Patil, Rishabh},
-  year    = {2026}
+@misc{patil2026clap,
+  author = {Patil, Rishabh Ashok},
+  title  = {Conservative Lapse-Action Planning: A Variational Access-and-Dwell
+            Framework for Safe Latent Trajectory Optimization},
+  year   = {2026},
+  doi    = {10.5281/zenodo.20467271},
+  url    = {https://doi.org/10.5281/zenodo.20467271},
+  note   = {Zenodo}
 }
 ```
 
